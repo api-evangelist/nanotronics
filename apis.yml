@@ -35,6 +35,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.nanotronics.co', status: 307, note: 'declared website redirects to https://cubefabs.com/ — a different registrable domain (nanotronics.co -> cubefabs.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
